@@ -150,14 +150,14 @@
 
     <distributionManagement>
         <repository>
-            <id>rdc-releases</id>
+            <id>yeeorder-develop-release</id>
             <name>Nexus Releases Repository</name>
-            <url>https://packages.aliyun.com/maven/repository/2009284-release-mK6gB0/</url>
+            <url>https://nexus.ucharm-inc.com/repository/yeeorder-develop-release/</url>
         </repository>
         <snapshotRepository>
-            <id>rdc-snapshots</id>
+            <id>yeeorder-develop-snapshots</id>
             <name>Nexus Snapshots Repository</name>
-            <url>https://packages.aliyun.com/maven/repository/2009284-snapshot-8WjWcv/</url>
+            <url>https://nexus.ucharm-inc.com/repository/yeeorder-develop-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
